@@ -277,7 +277,7 @@ const data = [
   },
   {
     text: "Inductions",
-    link: "https://inductions.lndnitc.org",
+    link: "https://docs.google.com/forms/d/e/1FAIpQLSewW_IToAEIaRlNLvLIyAiERHFBoQxavQeiH3LlMKXPoqC1xg/viewform",
     icontype: "website2",
   },
 ];
