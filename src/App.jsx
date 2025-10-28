@@ -220,6 +220,11 @@ function App() {
 export default App;
 
 const data = [
+  {
+    text: "Inductions",
+    link: "https://docs.google.com/forms/d/e/1FAIpQLSewW_IToAEIaRlNLvLIyAiERHFBoQxavQeiH3LlMKXPoqC1xg/viewform",
+    icontype: "website2",
+  },
    {
     text: "Disputatio - Open Debate",
     link: "https://forms.gle/YbWA7CKEKyDBJhEe7/",
@@ -275,9 +280,5 @@ const data = [
     link: "https://www.linkedin.com/company/literary-debating-club-nitc/posts/?feedView=all",
     icontype: "linkedin",
   },
-  {
-    text: "Inductions",
-    link: "https://docs.google.com/forms/d/e/1FAIpQLSewW_IToAEIaRlNLvLIyAiERHFBoQxavQeiH3LlMKXPoqC1xg/viewform",
-    icontype: "website2",
-  },
+  
 ];
